@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">4dp</dimen>
+    <dimen name="text_padding_start">4dp</dimen>
+    <dimen name="text_padding_end">4dp</dimen>
+    <dimen name="layout_margin_bottom">6dp</dimen>
+</resources>
